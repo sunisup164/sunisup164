@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunisup164
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in music.
+- 🌱 I’m currently learning React and Python.
 - 💞️ I’m looking to collaborate on anything.
 - 😄 Pronouns: she/her
 
